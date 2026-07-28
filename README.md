@@ -52,7 +52,7 @@ Aplicação comercial com site institucional, catálogo de produtos, carrinho de
 
 [Conhecer o projeto](https://echocosmicenergia.com.br)
 
-### Axion
+### Axium
 
 Site institucional desenvolvido para uma empresa, apresentado atualmente por meio de uma versão demonstrativa de portfólio. Projeto comercial concluído.
 
