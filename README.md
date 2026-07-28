@@ -44,6 +44,26 @@ Rede social full stack com autenticação, perfis, publicações com imagens e h
 
 [Aplicação publicada](https://greentweet.vercel.app) · [Código-fonte](https://github.com/LukasFrickDev/greentweet)
 
+## Projetos comerciais
+
+### Echo Cosmic Energia
+
+Aplicação comercial com site institucional, catálogo de produtos, carrinho de compras, redirecionamento para pagamento pelo Mercado Pago, blog, página de links e painel administrativo para gerenciamento de conteúdo.
+
+[Conhecer o projeto](https://echocosmicenergia.com.br)
+
+### Axion
+
+Site institucional desenvolvido para uma empresa, apresentado atualmente por meio de uma versão demonstrativa de portfólio. Projeto comercial concluído.
+
+[Ver demonstração](https://projeto-lukasfrick-axiumdh.vercel.app)
+
+### A Alma no Comando e Alicerce da Alma
+
+Desenvolvimento de duas páginas comerciais responsivas para o mesmo cliente, com identidades e objetivos próprios, utilizando React e Styled Components.
+
+[A Alma no Comando](https://www.aalmanocomando.com.br) · [Alicerce da Alma](https://www.alicercedaalma.com.br)
+
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/lukaschristophfrick)
