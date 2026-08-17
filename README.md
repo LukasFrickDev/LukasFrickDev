@@ -1,4 +1,4 @@
-# Olá, eu sou Lukas Frick 👋
+# Olá, eu sou Lukas Frick 
 
 **Desenvolvedor Full Stack** com foco na construção de aplicações web completas, APIs REST e integração com bancos de dados.
 
