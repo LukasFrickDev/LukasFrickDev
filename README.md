@@ -9,10 +9,7 @@ Tenho experiência prática no desenvolvimento e publicação de projetos comerc
 - Desenvolvo aplicações com React, TypeScript, Python e Django REST Framework.
 - Trabalho com PostgreSQL, MySQL, APIs REST, Docker e serviços em nuvem.
 - Tenho experiência com projetos comerciais publicados em domínios reais.
-- Atualmente sou estagiário em Consultoria SAP na T-Systems.
-- Possuo certificação SAP SuccessFactors Compensation.
 - Curso Tecnologia em Análise e Desenvolvimento de Sistemas no Senac.
-- Utilizo ferramentas de IA como apoio para pesquisa, revisão e produtividade, mantendo a responsabilidade pelas decisões técnicas e validação do código.
 - Alemão avançado e inglês intermediário.
 
 ## Tecnologias
